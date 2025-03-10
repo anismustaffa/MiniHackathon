@@ -184,7 +184,7 @@ The interactive map below highlights the top 3 neighborhoods (Auraria, Universit
 
 **Top 3 Neighborhoods Map**
 
-Link will be uploaded soon
+[Click here for the interactive map](https://anismustaffa.github.io/MiniHackathon/folder1/top_3_neighborhoods_map.html)
 
 
 ## How to Reproduce the Analysis
